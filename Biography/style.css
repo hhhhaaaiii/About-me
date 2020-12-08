@@ -1,0 +1,16 @@
+body {background-color: rgb(103, 104, 104);}
+
+.profile{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 55px;
+    padding: 59px;
+    margin: -15px;
+    background-color: burlywood;
+}
+p{
+
+    font-size: 50px;
+}
+.bodytext{
+    color: cadetblue;
+    font-size: large;
+}
